@@ -93,3 +93,7 @@ input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration {
   display: none;
 }
+
+.custom-dialog-footer {
+  justify-content: space-between !important;
+}
